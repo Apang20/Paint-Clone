@@ -12,8 +12,6 @@ Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with
 - JavaScript
 - HTML5
 - CSS3
-- Mobile Responsive
-
 
 
 ## User Stories
@@ -25,6 +23,8 @@ A user can do all of the following:
 - Use the eraser to edit image
 - Save on local storage
 - Save image as a jpeg with icon 
+- App is mobile responsive, so users can access app on either phone, tablet or computer
+
 
 
 
