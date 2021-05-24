@@ -12,9 +12,6 @@ An application with a Canvas HTML element to create a basic version of MS Paint
 - HTML/CSS
 
 
-## Demo
-
-
 
 ## User Stories
 A user can do all of the following: 
