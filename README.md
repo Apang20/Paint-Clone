@@ -31,5 +31,6 @@ A user can do all of the following:
 
 ## Resources
 - [Google Fonts](https://fonts.google.com/)
+- [JS Color](https://jscolor.com/)
 - [JS Color] (https://jscolor.com/) 
 - [Icons](https://fontawesome.com/)
