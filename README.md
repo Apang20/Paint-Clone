@@ -33,3 +33,6 @@ A user can do all of the following:
 - [Google Fonts](https://fonts.google.com/)
 - [JS Color](https://jscolor.com/)
 - [Icons](https://fontawesome.com/)
+- [W3Schools](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+
