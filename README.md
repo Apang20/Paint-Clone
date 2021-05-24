@@ -1,4 +1,4 @@
-## Paint-Clone :art:
+## :pencil2: Paint-Clone :art:
 
 
 
