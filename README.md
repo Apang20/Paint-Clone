@@ -10,7 +10,9 @@ Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with
 
 ## Technologies 
 - JavaScript
-- HTML/CSS
+- HTML5
+- CSS3
+- Mobile Responsive
 
 
 
