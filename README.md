@@ -5,6 +5,7 @@
 ## Overview
 An application with a Canvas HTML element to create a basic version of MS Paint
 
+Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with additional customizations:
 
 
 ## Technologies 
