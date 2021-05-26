@@ -1,4 +1,4 @@
-## 🎨 Paint-Clone 👩‍🎨 - In Progress!
+## 🎨 Paint-Clone 👩‍🎨 
 ![](pic1.JPG)
 
 
@@ -38,3 +38,5 @@ Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with
 - [API Rednering](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 - [Snackbar](https://www.geeksforgeeks.org/how-to-create-a-snackbar-using-hmtl-css-javascript/) 
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) 
+- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
+
