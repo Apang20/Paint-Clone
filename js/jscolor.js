@@ -1777,7 +1777,6 @@ var jsc = {
 			if (currStyle && currStyle.position.toLowerCase() === 'fixed') {
 				this.fixed = true;
 			}
-
 			if (elm !== this.targetElement) {
 				// attach onParentScroll so that we can recompute the picker position
 				// when one of the offsetParents is scrolled

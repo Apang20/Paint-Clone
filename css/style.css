@@ -23,7 +23,7 @@ body {
 
 /* Font Awesome Icons */
 .fas,
-.far {
+.far, button .fas {
   font-size: 25px;
   position: relative;
   top: 5px;
@@ -67,8 +67,7 @@ body {
 }
 
 .tool {
-  position: relative;
-  top: 3px;
+  position: relative; 
 }
 
 .tool:not(:first-child) {
@@ -79,10 +78,24 @@ body {
   background-color: rgb(114, 114, 114);
   height: 44px;
   width: 345px;
+  top: 9px;
 }
 
 .brush > * {
   margin-left: 10px;
+}
+
+.bucket {
+  top: 9px;
+}
+
+button:focus {
+  outline: 0 !important;
+}
+
+.steps {
+  position: relative; 
+  width: 45px; 
 }
 
 .size {
@@ -146,6 +159,7 @@ body {
 
 /* Canvas */
 canvas#canvas {
+  
   position: absolute;
   top: 50px;
   cursor: crosshair;
