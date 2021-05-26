@@ -1,5 +1,5 @@
 ## 🎨 Paint-Clone 👩‍🎨 - In Progress!
-
+![](pic1.JPG)
 
 
 ## Overview
