@@ -1,5 +1,6 @@
 ## 🎨 Paint-Clone 👩‍🎨 
 ![](pic1.JPG)
+Screen Shot 2021-05-26 at 3.09.26 PM![image](https://user-images.githubusercontent.com/62185859/119724483-652da880-be34-11eb-87c3-8025dad76687.png)
 
 
 ## Overview
