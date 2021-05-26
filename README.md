@@ -1,5 +1,5 @@
-## 🎨 Paint-Clone 👩‍🎨 - In Progress!
-
+## 🎨 Paint-Clone 👩‍🎨 
+![image](https://user-images.githubusercontent.com/62185859/119724483-652da880-be34-11eb-87c3-8025dad76687.png)
 
 
 ## Overview
@@ -7,7 +7,8 @@ An application with a Canvas HTML element to create a basic version of MS Paint
 
 Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with additional customizations:
 - favicon logo
-- CSS
+- CSS3/HTML5
+- Icons 
 
 
 ## Technologies 
@@ -15,26 +16,27 @@ Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with
 - HTML5
 - CSS3
 
-
-## User Stories
-A user can do all of the following: 
-- Select mutliple colors
-- Select canvas color
-- Use slider to change the size of the paint brush
-- Draw on the canvas
-- Use the eraser to edit image
-- Save on local storage
-- Save image as a jpeg with icon 
-- App is mobile responsive, so users can access app on either phone, tablet or computer
-
-
-
-
+## Tools
+   - Brush:  Tools to draw on canvas.
+   - Bucket: Change canvas background color.
+   - Eraser: Earse partial drawn element.
+   - Slider: Size of Brush or Eraser.
+   - Color Picker: Pick a color.
+   - Clear canvas: Clear everything from canvas.
+   - Save Local Storage: Save current canvas to browser local storage.
+   - Load local storage: Load currently saved canvas from browser local storage.
+   - Delete local storage: Delete the currently saved canvas from the browser local storage.
+   - Undo: Partially go backwards.
+   - Redo: Partially go forward.
+   - Save: Save to local drive.
 
 ## Resources
-- [Icons](https://fontawesome.com/)
+- [Icons](https://icon-icons.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [JS Color](https://jscolor.com/)
-- [W3Schools](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+- [Slider](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
+- [API Rednering](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+- [Snackbar](https://www.geeksforgeeks.org/how-to-create-a-snackbar-using-hmtl-css-javascript/) 
+- [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) 
+- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
 
