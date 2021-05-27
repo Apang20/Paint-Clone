@@ -5,12 +5,6 @@
 ## Overview
 An application with a Canvas HTML element to create a basic version of MS Paint
 
-Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with additional customizations:
-- favicon logo
-- CSS3/HTML5
-- Icons 
-
-
 ## Technologies 
 - JavaScript
 - HTML5
@@ -38,5 +32,4 @@ Inspired by Udemy JS Web Projects: 20 Projects to Build Your Portfolio, but with
 - [API Rednering](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 - [Snackbar](https://www.geeksforgeeks.org/how-to-create-a-snackbar-using-hmtl-css-javascript/) 
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) 
-- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)
-
+- Project Inspired by: [javascript20-projects](https://github.com/zero-to-mastery/javascript20-projects)/ Additonal customizations: Favicon, CSS3, HTML5, Icons
