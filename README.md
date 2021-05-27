@@ -1,5 +1,7 @@
 ## 🎨 Paint-Clone 👩‍🎨 
 ![image](https://user-images.githubusercontent.com/62185859/119724483-652da880-be34-11eb-87c3-8025dad76687.png)
+## [View Live!](https://apang20.github.io/Paint-Clone/)
+
 
 
 ## Overview
